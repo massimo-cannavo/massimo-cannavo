@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Massimo Cannavo</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-🔭 I’m currently working on **Linux From Scratch**
+🔭 &nbsp;I’m currently working on **Linux From Scratch**
 
-🌱 I’m currently learning **PowerShell**
+🌱 &nbsp;I’m currently learning **PowerShell**
 
-💬 Ask me about **Python, Linux**
+💬 &nbsp;Ask me about **Python, Linux**
 
-📫 How to reach me **massimo.wo6q2@simplelogin.co**
+📫 &nbsp;How to reach me **massimo.wo6q2@simplelogin.co**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
