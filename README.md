@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Massimo Cannavo</h1>
 <h3 align="center">DevOps Engineer</h3>
+<br>
+<img align="right" width="480" height="201" src="https://media.giphy.com/media/3pZg9I9CBt0hZmlqtY/giphy.gif">
 
 🔭 &nbsp;I’m currently working on **Linux From Scratch**
 
