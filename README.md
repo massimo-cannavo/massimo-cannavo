@@ -5,7 +5,7 @@
 
 🔭 &nbsp;I’m currently working on **Linux From Scratch**
 
-🌱 &nbsp;I’m currently learning **PowerShell**
+🌱 &nbsp;I’m currently learning **Linux**
 
 💬 &nbsp;Ask me about **Python, Linux**
 
