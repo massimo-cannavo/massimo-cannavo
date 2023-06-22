@@ -20,11 +20,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massimo-cannavo&show_icons=true&theme=dark&locale=en&layout=compact" alt="massimo-cannavo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=massimo-cannavo&show_icons=true&theme=light&locale=en&layout=compact" alt="massimo-cannavo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massimo-cannavo&show_icons=true&theme=dark&locale=en" alt="massimo-cannavo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=massimo-cannavo&show_icons=true&theme=light&locale=en" alt="massimo-cannavo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massimo-cannavo&theme=dark" alt="massimo-cannavo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=massimo-cannavo&theme=light" alt="massimo-cannavo" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/massimocannavo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="massimocannavo" /></a></p><br><br>
